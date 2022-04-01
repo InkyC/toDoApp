@@ -19,6 +19,7 @@
 	}
 
 	h1 {
+		font-family: "Rock3D";
 		color: #000000;
 		text-transform: lowercase;
 		font-size: 2em;
